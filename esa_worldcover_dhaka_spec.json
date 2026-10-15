@@ -1,0 +1,13 @@
+{
+  "Dataset": "ESA WorldCover 10m v200",
+  "Target_Class": "Class 50 - Built-up / Impervious Surface",
+  "BoundingBox": [
+    23.65,
+    90.3,
+    23.95,
+    90.55
+  ],
+  "Resolution": "10m",
+  "Direct_Download_Tile": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N21E090_Map.tif",
+  "Status": "Spec & Direct URL Registered"
+}

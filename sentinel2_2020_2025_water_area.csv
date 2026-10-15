@@ -1,0 +1,3 @@
+year,date_window,image_count,valid_area_km2,valid_area_pct,mndwi_threshold,awei_threshold,mndwi_water_area_km2,awei_water_area_km2,conservative_water_area_km2,mndwi_awei_disagreement_pct,method,jrc_water_area_km2,disagreement_vs_jrc_pct
+2020,2020-01-01 to 2020-03-31,24,304.2307,100.0,> 0,> 0,14.0312,12.7227,12.2135,9.33,Sentinel-2 SR Harmonized dry-season median; SCL cloud/shadow mask; conservative water = MNDWI>0 AND AWEI>0,35.2694,-65.37
+2025,2025-01-01 to 2025-03-31,32,304.2307,100.0,> 0,> 0,10.5362,9.4987,9.1936,9.85,Sentinel-2 SR Harmonized dry-season median; SCL cloud/shadow mask; conservative water = MNDWI>0 AND AWEI>0,,

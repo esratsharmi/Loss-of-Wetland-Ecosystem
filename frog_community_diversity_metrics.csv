@@ -1,0 +1,4 @@
+era,total_occurrences,species_richness_S,dominant_species,dominant_count,berger_parker_d,shannon_H,simpson_1_minus_D,specialist_occurrences,specialist_pct
+1945–1958 (Historical),9,4,Fejervarya limnocharis,5,0.5556,1.1491,0.6173,8,88.89
+2009–2016 (Transition),27,7,Euphlyctis cyanophlyctis,11,0.4074,1.664,0.7627,22,81.48
+2017–2026 (Modern Urban),95,6,Duttaphrynus melanostictus,77,0.8105,0.7062,0.328,18,18.95

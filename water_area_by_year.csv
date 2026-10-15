@@ -1,0 +1,7 @@
+year,jrc_water_area_km2,sentinel2_conservative_water_area_km2,landsat_conservative_water_area_km2,preferred_phase2_estimate_km2,preferred_source
+2000,82.8849,,8.5658,82.8849,JRC direct yearly history
+2005,78.9484,,9.3976,78.9484,JRC direct yearly history
+2010,61.8897,,15.9884,61.8897,JRC direct yearly history
+2015,42.7685,,12.3181,42.7685,JRC direct yearly history
+2020,35.2694,12.2135,11.4409,35.2694,JRC direct yearly history
+2025,,9.1936,,9.1936,Sentinel-2 conservative water mask

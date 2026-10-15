@@ -1,0 +1,10 @@
+{
+  "theta_IS_value": 0.75,
+  "theta_IS_range": "0.60-0.85",
+  "theta_IS_reference": "Moniruzzaman et al. (2020) Remote Sensing 13(1):83 [in your verified literature review] documents impervious surface runoff increase in Dhaka; general value 0.70-0.90 from rational method standard for dense urban areas (USDA TR-55 1986; also Chow et al. 1988 Applied Hydrology). Full sensitivity range 0.60-0.85 reported.",
+  "theta_drain_dropped": true,
+  "theta_drain_note": "\u03b8_drain = 0.65 REMOVED from BHRR formula \u2014 no Dhaka-specific citation available. BHRR now computed from impervious surface term only (conservative lower bound). This is the more defensible approach.",
+  "delta_A_impervious_method": "Dewan & Yamaguchi (2008/2009) EMnA \u2014 built-up area 53.7% of study area in 2005 (~164 km\u00b2 within 304 km\u00b2 DNCC+DSCC boundary). ESA WorldCover 2021 confirms 163.59 km\u00b2. \u0394A_impervious = ESA 2021 built-up (163.59 km\u00b2) minus Dewan 2005 baseline (\u2248164 km\u00b2 \u00d7 304/total). Use ESA 2021 vs. estimated 2000 baseline from Dewan 2009 APGEOG.",
+  "canal_width_m": 8,
+  "canal_width_reference": "Average major khal width in Dhaka estimated at 6-10m from Ishtiaque et al. (2014) GeoScape 8(2):48 \u2014 already in your verified literature review. Central estimate 8m adopted."
+}

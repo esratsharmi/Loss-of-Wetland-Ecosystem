@@ -1,0 +1,173 @@
+gbifID,species,scientificName,vernacularName,decimalLatitude,decimalLongitude,year,month,day,eventDate,basisOfRecord,locality,institutionCode,is_centroid_record,location_precision,use_in_spatial_map,has_year_data,use_in_temporal_trend
+5857387485,Clinotarsus alticola,"Rana alticola Boulenger, 1882",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,Sonargaon and adjacent areas,,False,GPS_PRECISE,YES,True,YES
+6441101870,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,7,12,2026-07-12T20:27,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441403699,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,7,12,2026-07-12T19:49,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441607571,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,7,12,2026-07-12T20:33,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441701829,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,7,12,2026-07-12T20:24,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442015407,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,7,12,2026-07-12T19:48,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441110572,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,25,2026-03-25T20:33,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441925083,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,25,2026-03-25T20:37,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441001791,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T19:57,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441024924,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:39,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441034202,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T19:58,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441107372,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:46,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441114030,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:06,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441433634,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:11,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441661833,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:08,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441771604,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:38,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441840647,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:25,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441922583,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:54,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441985643,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:57,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442046778,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:01,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442072597,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,24,2026-03-24T20:08,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6440926512,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T20:24,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441381057,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T20:17,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441845753,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T20:16,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441934609,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T20:25,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442014755,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T20:13,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442092684,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T20:21,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6451911996,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T19:46,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6451996868,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T19:59,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6452212852,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,19,2026-03-19T19:54,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441199009,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T19:54,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441418125,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:47,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6451629373,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:58,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6451834060,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:48,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6452034807,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:59,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6452365933,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:52,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6452511622,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:52,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6452660715,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,13,2026-03-13T20:01,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441807096,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,11,2026-03-11T20:40,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6451914634,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,11,2026-03-11T20:39,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441320742,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T19:41,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441433805,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T19:46,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441457505,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T19:43,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441480725,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T19:55,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441971346,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T20:13,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6451672387,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T20:23,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6452240509,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,10,2026-03-10T20:11,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441091946,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,9,2026-03-09T19:29,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441982334,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,9,2026-03-09T19:37,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442055995,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,9,2026-03-09T20:00,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6440966713,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,8,2026-03-08T19:42,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441409583,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,8,2026-03-08T19:41,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441772925,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.684994,90.356331,2026,3,8,2026-03-08T19:44,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6130024279,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.836195,90.474487,2026,1,16,2026-01-16T17:24:36,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5839929181,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.748751,90.379905,2025,10,7,2025-10-07T19:41:48,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5282577461,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.799419,90.454994,2025,8,2,2025-08-02T10:43:37,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5008075372,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.74059,90.377017,2024,12,31,2024-12-31T07:22:30,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+6452062368,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.823996,90.347812,2024,8,9,2024-08-09T00:01,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4430433483,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.751114,90.375413,2023,6,20,2023-06-20T20:52:57,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4062635808,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.812726,90.347627,2023,3,4,2023-03-04T10:03,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3915359880,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.812726,90.347627,2022,9,21,2022-09-21T11:46:38,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3858355767,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.734632,90.397915,2022,5,29,2022-05-29T20:56,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3354986687,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.751377,90.383921,2021,8,7,2021-08-07T01:15,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3333343483,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.74631,90.4155,2021,7,4,2021-07-04T20:18:20,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5216055334,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.740639,90.400887,2021,6,26,2021-06-26T19:37:43,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3117803102,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.751757,90.371648,2021,5,15,2021-05-15T21:24,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3118261100,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.749879,90.377484,2021,5,15,2021-05-15T21:18,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113276251,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.734878,90.397235,2021,5,6,2021-05-06T21:20,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113314294,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.73386,90.397494,2021,5,6,2021-05-06T21:30,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113326268,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.733022,90.398383,2021,5,6,2021-05-06T21:08,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113441285,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.734455,90.397773,2021,5,6,2021-05-06T21:07,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113485314,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.733022,90.398383,2021,5,6,2021-05-06T21:29,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113498321,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.734597,90.397592,2021,5,6,2021-05-06T21:31,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113609312,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.734465,90.397172,2021,5,6,2021-05-06T21:13,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3113633344,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.748682,90.377752,2021,4,22,2021-04-22T06:45,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+2898352977,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.739574,90.401192,2020,10,12,2020-10-12T08:38:37,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+2851249617,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.747619,90.376517,2020,8,12,2020-08-12T22:32,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3333077356,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.747958,90.376846,2020,8,12,2020-08-12T22:29,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+1453074559,Duttaphrynus melanostictus,"Duttaphrynus melanostictus (Schneider, 1799)",,23.727939,90.401714,2015,6,16,2015-06-16,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5857387310,Duttaphrynus melanostictus,"Bufo melanostictus Schneider, 1799",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,adjacent areas of existing Saidabad water treatment plant,,False,GPS_PRECISE,YES,True,YES
+5857387338,Duttaphrynus melanostictus,"Bufo melanostictus Schneider, 1799",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,roadside and adjacent areas of Dhaka–Chittagong Highway,,False,GPS_PRECISE,YES,True,YES
+5857387411,Duttaphrynus melanostictus,"Bufo melanostictus Schneider, 1799",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,Sonargaon and adjacent areas,,False,GPS_PRECISE,YES,True,YES
+1987194939,Duttaphrynus melanostictus,"Bufo melanostictus Schneider, 1799",,23.723056,90.408611,1958,9,21,1958-09-21,PRESERVED_SPECIMEN,DACCA,UMMZ,False,GPS_PRECISE,YES,True,YES
+5857382418,Duttaphrynus melanostictus,"Bufo melanostictus Schneider, 1799",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
+4426848695,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",Indian skipper frog,23.770744,90.378114,2016,8,29,2016-08-29,MATERIAL_CITATION,Shere-eBangla Agricultural University Campus,,False,GPS_PRECISE,YES,True,YES
+5857387396,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,roadside and adjacent areas of Dhaka–Chittagong Highway,,False,GPS_PRECISE,YES,True,YES
+5857387527,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,adjacent areas of existing Saidabad water treatment plant,,False,GPS_PRECISE,YES,True,YES
+5857387613,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,Sonargaon and adjacent areas,,False,GPS_PRECISE,YES,True,YES
+4453765854,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2013,3,11,2013-03-11T10:31,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+4453784804,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2011,10,7,2011-10-07T12:06,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+4453933953,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2009,10,10,2009-10-10T22:17,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+4453958935,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2009,9,9,2009-09-09T21:50,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+4453758633,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2009,7,7,2009-07-07T20:55,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+4453767673,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2009,7,7,2009-07-07T20:57,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+4453785833,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.684994,90.356331,2009,6,2,2009-06-02T01:35,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+786075446,Euphlyctis cyanophlyctis,"Euphlyctis cyanophlyctis (Schneider, 1799)",,23.75,90.39,1945,9,29,1945-09-29,PRESERVED_SPECIMEN,"NEAR DACCA, TEZGAON",CM,False,GPS_PRECISE,YES,True,YES
+6171002843,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.813446,90.349709,2025,9,23,2025-09-23T13:37:22,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+6451519100,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.822143,90.346279,2024,8,13,2024-08-13T12:55,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465422447,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.822252,90.346245,2023,10,13,2023-10-13T11:07:35,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465706421,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.812726,90.347627,2023,10,13,2023-10-13T11:07:57,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465589159,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.822232,90.34623,2023,9,22,2023-09-22T11:28,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465401160,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.795603,90.353655,2023,9,12,2023-09-12T17:21:55,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465599163,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.795603,90.353655,2023,9,12,2023-09-12T16:49:50,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+6171148021,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.82228,90.346231,2023,9,12,2023-09-12T16:34:57,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465387699,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.812726,90.347627,2022,9,21,2022-09-21T10:58:34,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4465597714,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.812726,90.347627,2022,9,21,2022-09-21T11:04:21,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+2563500912,Euphlyctis hexadactylus,"Phrynoderma hexadactylum (Lesson, 1831)",,23.822272,90.346064,2020,1,17,2020-01-17T11:28,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+4916995816,Euphlyctis kalasgramensis,"Euphlyctis kalasgramensis Howlader, Nair, Gopalan & Merilä, 2015",,23.673729,90.43213,,,,,MATERIAL_SAMPLE,,"Mined from GenBank, NCBI",False,GPS_PRECISE,YES,False,NO
+5857387427,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,roadside and adjacent areas of Dhaka–Chittagong Highway,,False,GPS_PRECISE,YES,True,YES
+5857387444,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,adjacent areas of existing Saidabad water treatment plant,,False,GPS_PRECISE,YES,True,YES
+5857387543,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,Sonargaon and adjacent areas,,False,GPS_PRECISE,YES,True,YES
+1987143936,Fejervarya limnocharis,"Rana lymnocharis Gravenhorst, 1829",,23.846523,90.402689,1958,9,21,1958-09-21,PRESERVED_SPECIMEN,DACCA NEAR AIRPORT,UMMZ,False,GPS_PRECISE,YES,True,YES
+786075434,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.75,90.39,1945,9,29,1945-09-29,PRESERVED_SPECIMEN,"NEAR DACCA, TEZGAON",CM,False,GPS_PRECISE,YES,True,YES
+786075439,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.75,90.39,1945,9,29,1945-09-29,PRESERVED_SPECIMEN,"NEAR DACCA, TEZGAON",CM,False,GPS_PRECISE,YES,True,YES
+786075442,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.75,90.39,1945,9,29,1945-09-29,PRESERVED_SPECIMEN,"NEAR DACCA, TEZGAON",CM,False,GPS_PRECISE,YES,True,YES
+786075450,Fejervarya limnocharis,"Limnonectes limnocharis (Gravenhorst, 1829)",,23.75,90.39,1945,9,29,1945-09-29,PRESERVED_SPECIMEN,"NEAR DACCA, TEZGAON",CM,False,GPS_PRECISE,YES,True,YES
+5857382423,Fejervarya limnocharis,"Rana lymnocharis Gravenhorst, 1829",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
+6441657387,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.684994,90.356331,2026,3,9,2026-03-09T19:42,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+3302334320,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.73535,90.398366,2021,6,7,2021-06-07T20:17,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5063676949,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.865787,90.518103,2021,1,2,2021-01-02T16:11,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+1453074483,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.727883,90.400052,2015,6,15,2015-06-15,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5857387383,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,roadside and adjacent areas of Dhaka–Chittagong Highway,,False,GPS_PRECISE,YES,True,YES
+5857387394,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,adjacent areas of existing Saidabad water treatment plant,,False,GPS_PRECISE,YES,True,YES
+5857387640,Hoplobatrachus tigerinus,"Hoplobatrachus tigerinus (Daudin, 1802)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,Sonargaon and adjacent areas,,False,GPS_PRECISE,YES,True,YES
+5857382437,Hoplobatrachus tigerinus,"Rana tigerina Daudin, 1802",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
+3456612194,Hylarana tytleri,"Hylarana tytleri Theobald, 1868",,23.694994,90.394958,2020,10,5,2020-10-05T20:17:42,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5857382306,Indosylvirana temporalis,"Rana temporalis (Günther, 1864)",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
+1987069430,Microhyla ornata,"Microhyla ornata (Duméril & Bibron, 1841)",,23.846523,90.402689,1958,9,21,1958-09-21,PRESERVED_SPECIMEN,DACCA NEAR AIRPORT,UMMZ,False,GPS_PRECISE,YES,True,YES
+786075460,Microhyla ornata,"Microhyla ornata (Duméril & Bibron, 1841)",,23.75,90.39,1945,9,29,1945-09-29,PRESERVED_SPECIMEN,"NEAR DACCA, TEZGAON",CM,False,GPS_PRECISE,YES,True,YES
+4535666957,Minervarya agricola,"Minervarya agricola (Jerdon, 1853)",,23.659901,90.356331,2024,2,27,2024-02-27T11:54:39,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+3440083024,Minervarya dhaka,"Minervarya dhaka (Howlader, Nair & Merilä, 2016)",,23.770902,90.377741,2012,6,11,2012-06-11T00:00Z,PRESERVED_SPECIMEN,"Sher-e-Bangla | Sher-e-Bangla Agricultural University campus, in front of Kabi Kazi Nazrul Islam Hall",MZH,False,GPS_PRECISE,YES,True,YES
+3440083047,Minervarya dhaka,"Minervarya dhaka (Howlader, Nair & Merilä, 2016)",,23.770902,90.377741,2012,6,10,2012-06-10T00:00Z,PRESERVED_SPECIMEN,"Sher-e-Bangla | Sher-e-Bangla Agricultural University campus, in front of Kabi Kazi Nazrul Islam Hall",MZH,False,GPS_PRECISE,YES,True,YES
+3440083054,Minervarya dhaka,"Minervarya dhaka (Howlader, Nair & Merilä, 2016)",,23.770902,90.377741,2012,6,10,2012-06-10T00:00Z,PRESERVED_SPECIMEN,"Sher-e-Bangla | Sher-e-Bangla Agricultural University campus, in front of Kabi Kazi Nazrul Islam Hall",MZH,False,GPS_PRECISE,YES,True,YES
+3785007735,Polypedates leucomystax,"Polypedates leucomystax (Gravenhorst, 1829)",,23.732239,90.399913,2022,5,14,2022-05-14T21:34,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+2596205164,Polypedates leucomystax,"Polypedates leucomystax (Gravenhorst, 1829)",,23.823542,90.34695,2017,10,3,2017-10-03T13:40,HUMAN_OBSERVATION,,iNaturalist,False,GPS_PRECISE,YES,True,YES
+5857387563,Polypedates maculatus,"Polypedates maculatus (Gray, 1830)",,23.72,90.44,2013,9,1,2013-09-01,MATERIAL_CITATION,Sonargaon and adjacent areas,,False,GPS_PRECISE,YES,True,YES
+5857382456,Polypedates maculatus,"Rhacophorus maculatus (Gray, 1830)",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
+6441450456,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,7,12,2026-07-12T20:35,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6440952538,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:24,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441084970,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:50,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441107888,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:38,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441121065,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:51,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441214353,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:22,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441423029,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:29,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441479666,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:34,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441656870,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,25,2026-03-25T20:27,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6440928639,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:24,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6440937506,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:03,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441162479,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:28,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441200030,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:18,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441259799,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:05,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441415589,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:33,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441468047,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:28,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441746873,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T19:57,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441829698,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:02,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441867979,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:24,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441957911,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:21,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442071752,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,24,2026-03-24T20:33,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441030595,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,19,2026-03-19T20:11,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441133318,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,19,2026-03-19T20:12,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441424598,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,19,2026-03-19T20:12,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441649925,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,19,2026-03-19T20:28,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441749564,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,19,2026-03-19T20:13,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441765958,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,19,2026-03-19T20:12,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441371383,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,10,2026-03-10T19:35,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441206325,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,9,2026-03-09T19:32,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6441796374,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,8,2026-03-08T19:39,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+6442046076,Unclassified Anura,"Euphlyctis Fitzinger, 1843",,23.684994,90.356331,2026,3,8,2026-03-08T20:06,HUMAN_OBSERVATION,,iNaturalist,True,CENTROID_IMPRECISE,NO,True,YES
+3440082948,Unclassified Anura,"Fejervarya Bolkay, 1915",,23.770902,90.377741,2012,6,11,2012-06-11T00:00Z,PRESERVED_SPECIMEN,"Sher-e-Bangla | Sher-e-Bangla Agricultural University campus, in front of Kabi Kazi Nazrul Islam Hall",MZH,False,GPS_PRECISE,YES,True,YES
+3440082969,Unclassified Anura,"Fejervarya Bolkay, 1915",,23.770902,90.377741,2012,6,11,2012-06-11T00:00Z,PRESERVED_SPECIMEN,"Sher-e-Bangla | Sher-e-Bangla Agricultural University campus, in front of Kabi Kazi Nazrul Islam Hall",MZH,False,GPS_PRECISE,YES,True,YES
+5857382310,Unclassified Anura,"Rhacophorus Kuhl & Van Hasselt, 1822",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
+5857382436,Unclassified Anura,"Rana Linnaeus, 1758",,23.683,90.517,,,,,MATERIAL_CITATION,Siddhirganj,,False,GPS_PRECISE,YES,False,NO
